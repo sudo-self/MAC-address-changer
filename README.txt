@@ -1,4 +1,5 @@
-https://shop.jessejesse.com/b/dTpAE    For MAC and Linux systems only
+# https://shop.jessejesse.com/b/dTpAE    
 
-Terminal: macchanger -r bridge0 
+For MAC and Linux systems only
+
 
